@@ -1,0 +1,20 @@
+body {
+background-image: url("https://wallpaperboat.com/wp-content/uploads/2019/06/plain-black-19.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.first h2{
+font-size: 30px;
+font-family: 'Lobster', cursive;
+color: white;
+}
+.first p{
+font-size: 22px;
+color: white;
+font-family: 'Satisfy', cursive;
+}
+.first {
+	width: 80%;
+	padding-left: 10%;
+}
